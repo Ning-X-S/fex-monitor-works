@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html, body, #app {
+  height: 100%;
+  background-color: #f0f2f5;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+.show {
+  display: block;
+}
+
+.none {
+  display: none;
+}
+
+.flex {
+  display: -webkit-flex;
+  display: flex;
+}
+
+.flex-0 {
+  -webkit-flex: 0 0 auto;
+  flex: 0 0 auto;
+}
+
+.flex-1 {
+  -webkit-flex: 1 1 auto;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.justify-between {
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+}
+
+.justify-around {
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
+}
+
+.direction-col {
+  flex-direction: column;
+}
+
+.direction-row-r {
+  flex-direction: row-reverse;
+}

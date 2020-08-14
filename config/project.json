@@ -1,0 +1,40 @@
+{
+  "projectList": [
+    {
+      "name": "biz-works",
+      "key": "biz-works",
+      "desc": "新版商家后台",
+      "type": "web"
+    },
+    {
+      "name": "higo-im",
+      "key": "higo-im",
+      "desc": "新版im.lehe",
+      "type": "web"
+    },
+    {
+      "name": "gls-page",
+      "key": "gls",
+      "desc": "gls page",
+      "type": "web"
+    },
+    {
+      "name": "higo-m",
+      "key": "m",
+      "desc": "higo m 站",
+      "type": "web"
+    },
+    {
+      "name": "xz-m",
+      "key": "xiaozhuo",
+      "desc": "xz m 站",
+      "type": "web"
+    },
+    {
+      "name": "xz-works",
+      "key": "xz-works",
+      "desc": "xz 后台",
+      "type": "web"
+    }
+  ]
+}
